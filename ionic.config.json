@@ -1,0 +1,7 @@
+{
+  "name": "boycott-france",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
